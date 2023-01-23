@@ -1,0 +1,28 @@
+/* Project No:1 Stopwatch Program */
+.timerBtn{
+    width: 80px;
+    height: 30px;
+    border: 3px solid;
+    border-radius: 12px;
+    background-color: darkorchid;
+    color: #ffffff;
+    cursor: pointer;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+#timeDisplay{
+    font-size: 75px;
+    color: rgb(93, 50, 168);
+}
+
+#timeContainer{
+    text-align: center;
+    border: 3px solid;
+    border-radius: 25px;
+    background-color: darksalmon;
+}
+
+#heading{
+    text-align: center;
+    color: crimson;
+}
